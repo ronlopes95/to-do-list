@@ -1,4 +1,8 @@
-# TO-DO LIST / LISTA DE TAREFAS SIMPLES
+<div align="center"> <h1> TO-DO LIST / LISTA DE TAREFAS SIMPLES </h1>
+
+https://user-images.githubusercontent.com/103221476/166855685-bc287218-4baa-4766-af94-ce70fe1051dd.mp4
+</div>
+
 
 <h2>Sobre:</h2>
 Uma lista de tarefas simples, feita como projeto pessoal para me desafiar e testar meus conhecimentos.
