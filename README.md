@@ -4,7 +4,7 @@ https://user-images.githubusercontent.com/103221476/166855685-bc287218-4baa-4766
 </div>
 
 
-<h2>Abou</h2>
+<h2>About:</h2>
 A simple to-do list, made as a personal project to challenge myself and test my knowledge.
 
 <h2>Development:</h2>
