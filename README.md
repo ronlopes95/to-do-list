@@ -4,11 +4,13 @@ https://user-images.githubusercontent.com/103221476/166855685-bc287218-4baa-4766
 </div>
 
 
-<h2>Sobre:</h2>
+<h2>Abou</h2>
 A simple to-do list, made as a personal project to challenge myself and test my knowledge.
 
 <h2>Development:</h2>
+
 The project was made with:
+
 <image src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> <image src = "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> <image src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
   <h3>Contact:</h3>
